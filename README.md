@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% for item in site.data.samplelist.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      - [**{{ item.title }}**]({{ item.url }})
 {% endfor %}
 
 ## Biography

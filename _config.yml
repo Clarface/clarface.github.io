@@ -5,6 +5,7 @@ plugins:
 logo: ./portrait.jpg
 
 title: Clara Bourgeais
+subtitle: Chaos Vector
 description: Oh! I see someone is interested in my work! Welcome to my personnal WebPage!
 show_downloads: false
 

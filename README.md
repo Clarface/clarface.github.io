@@ -2,10 +2,6 @@
 layout: default
 ---
 
-{% for item in site.data.samplelist.docs %}
-      - [**{{ item.title }}**]({{ item.url }})
-{% endfor %}
-
 ## Biography
 
 My name is Clara, I'm a PhD student in computer sciences since october 2024. I come from Quimper in France. This is a city placed in the [Finistère](https://en.wikipedia.org/wiki/Finist%C3%A8re) - a department of France - in the extreme west of Brittany.

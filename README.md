@@ -2,16 +2,9 @@
 layout: default
 ---
 
-*\*Mumbeling\**... Oh!  I see someone is interested in my work ! Welcome to my personnal WebPage !
-
-[Latest news]()
-
-[Curriculum vitae]()
-
-[Science stuff]()
-
-[Teachings]()
-
+{% for item in site.data.samplelist.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
 
 ## Biography
 

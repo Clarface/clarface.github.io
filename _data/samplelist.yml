@@ -1,0 +1,15 @@
+docs:
+- title: Home
+  url: README.md
+  
+- title: Latest news
+  url: latest-news.md
+  
+- title: Curriculum vitae
+  url: curriculum-vitae.md
+
+- title: Science stuff
+  url: science-stuff.md
+  
+- title: teachings
+  url: teachings.md

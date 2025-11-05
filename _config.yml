@@ -4,7 +4,25 @@ plugins:
 
 gem "github-pages", group: :jekyll_plugins
 
-title: Clara Bourgeais - *Chaos bringer*
-description: Personal webpage. Here are presented my experiences, publications, and teachings.
+title: Clara Bourgeais
+description: Oh! I see someone is interested in my work! Welcome to my personnal WebPage!
 show_downloads: false
-google_analytics: GTM-PLKMWDQ7
+
+docs:
+- title: Home
+  url: README.md
+  
+- title: Latest news
+  url: latest-news.md
+  
+- title: Curriculum vitae
+  url: curriculum-vitae.md
+
+- title: Science stuff
+  url: science-stuff.md
+  
+- title: teachings
+  url: teachings.md
+
+  
+

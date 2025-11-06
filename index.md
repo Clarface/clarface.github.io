@@ -1,6 +1,4 @@
----
-layout: default
----
+# Home
 
 ## Biography
 
@@ -11,7 +9,6 @@ My PhD thesis is about secure code generation with the help of compiler back-end
 
 ## Contact
 
-|               |                                                     |
 |---------------|-----------------------------------------------------|
 | **Phone number:** | (+33) 7 50 45 24 64                                 |
 | **Email adress:** | clara[dot]bourgeais[at]lcis[dot]grenoble-inp[dot]fr |

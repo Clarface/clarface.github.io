@@ -25,7 +25,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% for item in site.data.samplelist.docs %}
-            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            <h3><li><a href="{{ item.url }}">{{ item.title }}</a></li></h3>
         {% endfor %}
       </header>
       <section>

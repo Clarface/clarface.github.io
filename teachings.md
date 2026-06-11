@@ -15,7 +15,7 @@
             {% assign PX111 = 32 %}
             {% assign IN332 = 7 %}
             {% assign IN420 = 21 %}
-            {% assign SN330 = 24.5 %}
+            {% assign SN330 = 28 %}
             <th><b>{{ OS418 | plus: CS222 | plus: PX111 | plus: IN332 | plus: IN420 | plus: SN330}} hours (total)</b></th>
         </tr>
     </thead>
@@ -35,7 +35,7 @@
         <td><b>2024 - 2026</b></td>
         <td><b><a href="https://chamilo.grenoble-inp.fr/courses/ESISAR3AMSN330/index.php">Processor Architecture</a></b></td>
         <td><b>TP</b></td>
-        <td><b>24.5 hours</b></td>
+        <td><b>28 hours</b></td>
     </tr>
     <tr>
         <td><b>2024 - 2026</b></td>

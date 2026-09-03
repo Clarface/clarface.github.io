@@ -5,7 +5,7 @@
 My name is Clara, I'm a PhD student in computer sciences since october 2024. I come from Quimper in France. This is a city placed in the [Finistère](https://en.wikipedia.org/wiki/Finist%C3%A8re) - a department of France - in the extreme west of Brittany.
 I am currently working at the Grenoble INP - LCIS laboratory in Valence 26000, France.
 
-My PhD thesis is about secure code generation with the help of compiler back-ends. We (me and my supervisors [Laure Gonnord](https://laure.gonnord.org/pro/), [Bruno Ferres](https://ferres.me/curriculum_en.html), and [David Hély](https://davidhely.github.io/)) claim that compiler back-ends are an efficient way to generate secure-and-optimized code.
+My PhD thesis is about secure code generation with the help of compiler back-ends. We (me and my supervisors [Laure Gonnord](https://laure.gonnord.org/pro/) and [Bruno Ferres](https://ferres.me/curriculum_en.html) claim that compiler back-ends are an efficient way to generate secure-and-optimized code.
 
 ## Contact
 
